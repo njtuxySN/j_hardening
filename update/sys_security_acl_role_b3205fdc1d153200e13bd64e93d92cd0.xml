@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-02-28 19:09:13</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>b3205fdc1d153200e13bd64e93d92cd0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_yan_test_app_xxx_new.x_yan_test_app.user</sys_name>
+        <sys_package display_value="Yan_test_app" source="x_yan_test_app">b36a47d81d153200e13bd64e93d92c0d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Yan_test_app">b36a47d81d153200e13bd64e93d92c0d</sys_scope>
+        <sys_security_acl display_value="x_yan_test_app_xxx_new">a3205fdc1d153200e13bd64e93d92ccd</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b3205fdc1d153200e13bd64e93d92cd0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-02-28 19:09:13</sys_updated_on>
+        <sys_user_role display_value="x_yan_test_app.user" name="x_yan_test_app.user">407a47d81d153200e13bd64e93d92c31</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
